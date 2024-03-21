@@ -5,3 +5,5 @@ System.Console.WriteLine($"Qo'shish > {firstNumber + secondNumber}");
 System.Console.WriteLine($"Ayirish > {firstNumber - secondNumber}");
 System.Console.WriteLine($"Ko'paytirish > {firstNumber * secondNumber}");
 System.Console.WriteLine($"Bo'lish > {firstNumber / secondNumber}");
+
+System.Console.WriteLine("Nima gap eeeee");
